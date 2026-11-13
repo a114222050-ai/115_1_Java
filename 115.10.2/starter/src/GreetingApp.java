@@ -9,7 +9,6 @@ public class GreetingApp {
 
     static String buildGreeting(String name) {
         // TODO：回傳 "Hello, " + 姓名 + "!"；此方法不負責輸出。
-        // 暫時回傳 TODO 使起始碼能編譯；能執行不代表需求已完成。
-        return "TODO";
+        return "Hello, " + name + "!";
     }
 }
